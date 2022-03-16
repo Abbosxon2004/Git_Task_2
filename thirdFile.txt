@@ -1,0 +1,1 @@
+there is any message in thirdFile.txt

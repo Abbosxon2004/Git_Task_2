@@ -1,0 +1,24 @@
+From d2410972e84cbebaaee96799c2d4c9ea344c7bb3 Mon Sep 17 00:00:00 2001
+From: abboskhan <abbosxon28012004@gmail.com>
+Date: Fri, 17 Mar 2023 09:08:56 +0500
+Subject: [PATCH] updated 2 lines in firstFile.tx at git_1
+
+---
+ firstFile.txt | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+
+diff --git a/firstFile.txt b/firstFile.txt
+index 0ea3562..ce12c68 100644
+--- a/firstFile.txt
++++ b/firstFile.txt
+@@ -6,5 +6,5 @@ first file 5
+ first file 6
+ first file 7
+ first file 8
+-first file 9
+-first file 10
++updated first file 9
++updated first file 10
+-- 
+2.39.1.windows.1
+
